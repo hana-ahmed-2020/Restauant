@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Restauant</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">G12WDJBow9kqE5qCdhXT2ww7x5Ngbec16T1SxAqs</string>
+    <string name="back4app_client_key">YiKB3tCOBsd1guNRNE9B4kq5zheOT7wAsFHlk19T</string>
+    <string-array name="menu">
+        <item> </item>
+        <item> Dessert</item>
+        <item> Boire </item>
+        <item>Jus </item>
+        <item> Food </item>
+    </string-array>
+
+</resources>
